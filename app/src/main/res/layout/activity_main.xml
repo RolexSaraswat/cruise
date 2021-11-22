@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/angryimg"
-    tools:context=".MainActivity">
+    tools:context=".Mainactivity">
 
 
     <ImageView
@@ -49,18 +49,13 @@ app:cardBackgroundColor="#f9f4f4"
                 android:gravity="center"
                 android:orientation="vertical">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/delhi"
-                    />
 
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_width="136dp"
                     android:layout_height="wrap_content"
-                    android:text="Delhi"
+                    android:text="Mississauga"
                     android:textAlignment="center"
-                    android:textSize="30dp"
+                    android:textSize="23dp"
                     android:textStyle="bold" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
@@ -87,18 +82,14 @@ app:cardBackgroundColor="#f9f4f4"
                 android:gravity="center"
                 android:orientation="vertical">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/pun"
-                    />
+
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Pune"
+                    android:text="North York "
                     android:textAlignment="center"
-                    android:textSize="30dp"
+                    android:textSize="23dp"
                     android:textStyle="bold" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
@@ -124,17 +115,14 @@ app:cardBackgroundColor="#f9f4f4"
                 android:gravity="center"
                 android:orientation="vertical">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/jaipur" />
+
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Jaipur"
+                    android:text="Oakville"
                     android:textAlignment="center"
-                    android:textSize="30dp"
+                    android:textSize="23dp"
                     android:textStyle="bold" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
@@ -160,17 +148,14 @@ app:cardBackgroundColor="#f9f4f4"
                 android:gravity="center"
                 android:orientation="vertical">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/guj" />
+
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Gujrat"
+                    android:text="Hamilton"
                     android:textAlignment="center"
-                    android:textSize="30dp"
+                    android:textSize="23dp"
                     android:textStyle="bold" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
@@ -197,17 +182,13 @@ app:cardBackgroundColor="#f9f4f4"
                 android:gravity="center"
                 android:orientation="vertical">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/chen" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Chennai"
+                    android:text="Toronto"
                     android:textAlignment="center"
-                    android:textSize="30dp"
+                    android:textSize="23dp"
                     android:textStyle="bold" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
@@ -233,16 +214,12 @@ app:cardBackgroundColor="#f9f4f4"
                 android:gravity="center"
                 android:orientation="vertical">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/agra" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Agra"
+                    android:text="Brampton"
                     android:textAlignment="center"
-                    android:textSize="30dp"
+                    android:textSize="23dp"
                     android:textStyle="bold" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>

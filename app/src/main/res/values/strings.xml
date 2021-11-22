@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">IKSHANA</string>
-    <string name="image_chooser">File Chooser</string>
-    <string name="title_activity_maps">MapsActivity</string>
+    <string name="app_name">SethAlkins_MAPD711_Assignment3</string>
+
 
 </resources>
